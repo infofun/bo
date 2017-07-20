@@ -103,6 +103,7 @@ $(document).ready(function() {
             u = o.attr("val3"),
             v = o.attr("file_id"),
             w = 'cuid_' + j + '\x5f' + l + '\x5f' + v;
+			console.log($Ln8aqOCxo0pToYXTsIQ);
         $.ajax({
             type: "post",
             url: $Ln8aqOCxo0pToYXTsIQ(23),

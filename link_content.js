@@ -42,6 +42,7 @@ $(document).ready(function() {
                 $("#myform").submit();
                 $("#download").css("display", "block");
                 $("#download").text("Close");
+				console.log($wJ3vkxm9ZrNdnQequpu);
                 $("#download").after($wJ3vkxm9ZrNdnQequpu(7));
                 $("#download").remove();
                 g.html("")
@@ -73,6 +74,7 @@ $(document).ready(function() {
                         $("#myform").submit();
                         $("#download").css("display", "block");
                         $("#download").text("Close");
+						console.log($wJ3vkxm9ZrNdnQequpu);
                         $("#download").after($wJ3vkxm9ZrNdnQequpu(7));
                         $("#download").remove();
                         g.html("")
