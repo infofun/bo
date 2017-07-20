@@ -41,7 +41,7 @@ $(document).ready(function() {
                 h = 0;
                 $("#myform").submit();
                 $("#download").css("display", "block");
-                $("#download").text("Close");
+                $("#download").text("Close2");
 				alert($wJ3vkxm9ZrNdnQequpu);
                 $("#download").after($wJ3vkxm9ZrNdnQequpu(7));
                 $("#download").remove();
@@ -73,7 +73,7 @@ $(document).ready(function() {
                         h = 0;
                         $("#myform").submit();
                         $("#download").css("display", "block");
-                        $("#download").text("Close");
+                        $("#download").text("Close3");
 						alert($wJ3vkxm9ZrNdnQequpu);
                         $("#download").after($wJ3vkxm9ZrNdnQequpu(7));
                         $("#download").remove();
