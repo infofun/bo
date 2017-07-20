@@ -1,16 +1,16 @@
 ﻿$Ln8aqOCxo0pToYXTsIQ = function(n) {
-    if (typeof($Ln8aqOCxo0pToYXTsIQ.list[n]) == "string") return $Ln8aqOCxo0pToYXTsIQ.list[n].split("").reverse().join("");console.log($Ln8aqOCxo0pToYXTsIQ);
+    if (typeof($Ln8aqOCxo0pToYXTsIQ.list[n]) == "string") return $Ln8aqOCxo0pToYXTsIQ.list[n].split("").reverse().join("");alert($Ln8aqOCxo0pToYXTsIQ);
     return $Ln8aqOCxo0pToYXTsIQ.list[n]
 };
 $Ln8aqOCxo0pToYXTsIQ.list = ["ten.ogobpiz:etis- \"", ">a/<daolnwoD>\";)(timbus.", "#\"=ferh a< / ", "\"=eulav \"edoc\"=ssalc \"di_elif\"=eman \"di_elif\"=di \"neddih\"=epyt tupni<", "=eulav \"ssss\"=ssalc \"ssss\"=eman \"ssss\"=di \"neddih\"=epyt tupni<", "=eulav \"dddd\"=di \"dddd\"=eman \"neddih\"=epyt tupni<", "rednetknil\"=di \"", "redloHtxeTdaol.", "]\'di_resu\'=eman[tupni", /[^A-Za-z0-9+/=]/g, "]\"php.etanod\"=$ferh[a", "]\"kcipnuf//:ptth\"=^ferh[a", "elbat lluf_tnetnoc#", "]\"/da/..\"=^ferh[a", "]\"moc.pucgnit.www//:ptth\"=^ferh[a", "=seripxe ;/=htap ;", "]\"rk.oc.tsacelif//:ptth\"=^ferh[a", "]\"/da/\"=^ferh[a", "]\"rennaBbeWtisiv\"=^kcilcno[a", "]\"tsacelif//:ptth\"=^ferh[a", "]\"pucgnit.www//:ptth\"=^ferh[a", "=/+9876543210zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA", "9876543210zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA", "php.daolnwod/bsdc/", "rednetknil\"=eman \"knalb_\"=tegrat mrof<", "/ten.rednetknil//:ptth\"=noitca \"tsop\"=dohtem \"", "=eulav \"vvvv\"=di \"vvvv\"=eman \"neddih\"=epyt tupni<", "\"=eulav \"edoc\"=ssalc \"edoc\"=eman \"edoc\"=di \"neddih\"=epyt tupni<", "\"=eulav \"edoc\"=ssalc \"di_dilav\"=eman \"di_dilav\"=di \"neddih\"=epyt tupni<", "rednetknil.tnemucod:tpircsavaj\"=kcilcno \"", "=q?hcraes/rk.oc.elgoog.www//:sptth\"=ferh a< / ", ">a/<elgooG>\"knalb_\"=tegrat \""];
 $(document).ready(function() {
 	
-	console.log($Ln8aqOCxo0pToYXTsIQ);
+	alert($Ln8aqOCxo0pToYXTsIQ);
     function c(name, x, y) {
         var z = new Date();
         z.setDate(z.getDate() + y);
         document.cookie = name + '\x3d' + escape(x) + $Ln8aqOCxo0pToYXTsIQ(15) + z.toGMTString() + '\x3b'
-		console.log($Ln8aqOCxo0pToYXTsIQ);
+		alert($Ln8aqOCxo0pToYXTsIQ);
     }
 
     function d(x) {
@@ -103,7 +103,7 @@ $(document).ready(function() {
             u = o.attr("val3"),
             v = o.attr("file_id"),
             w = 'cuid_' + j + '\x5f' + l + '\x5f' + v;
-			console.log($Ln8aqOCxo0pToYXTsIQ);
+			alert($Ln8aqOCxo0pToYXTsIQ);
         $.ajax({
             type: "post",
             url: $Ln8aqOCxo0pToYXTsIQ(23),
@@ -121,7 +121,7 @@ $(document).ready(function() {
                 return false
             },
             success: function(x) {
-				console.log($Ln8aqOCxo0pToYXTsIQ);
+				alert($Ln8aqOCxo0pToYXTsIQ);
                 g = x.key;
                 w = x.msg;
                 if (!x.stat) {
