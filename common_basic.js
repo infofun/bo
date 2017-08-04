@@ -1,4 +1,6 @@
 $(document).ready(function(){
+	
+	$('script[src=/js/common_basic.js]').remove();
 
 	// LINK (url)
 	$("[class*=btn_link],button[type=button]").bind("click", function(e){
